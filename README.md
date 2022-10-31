@@ -1,2 +1,10 @@
 # WinVirtualDisplay
-Windows Virtual Display Driver and Installer
+
+- Driver project location
+
+build/
+
+
+- Driver installer project location
+
+devcon/
